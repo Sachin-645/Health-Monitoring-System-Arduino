@@ -22,11 +22,11 @@ A microcontroller-based health monitoring system using Arduino Uno. It measures 
 | DHT11        | Temperature sensor            | 1        | 49         |
 | LCD I2C 16×2 | Display module                | 1        | 0          |
 | HC-05        | Bluetooth module              | 1        | 230        |
-| GSM SIM900A  | GSM module with 12V 1A supply | 1        | 945        |
+| GSM SIM900A  | GSM module with 12V 1A supply | 1        | 945 + 150  |
 | Breadboard   | Solderless breadboard         | 1        | 55         |
 | Jumper Wires | Male-Male / Breadboard wires  | 1 set    | 40         |
 
-**Total cost:** 1,689 INR
+**Total cost:** 1,839 INR
 
 ## System Architecture
 
